@@ -1,0 +1,9 @@
+---
+title: "React Grocery List Form"
+type: "exercise"  # challenge, exercise, article, video
+description: "Manage state in a React Application."
+tags: "react"
+behaviors:
+  - react_on_node
+ignore:
+- "react-grocery-list-form.md"
