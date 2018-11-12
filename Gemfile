@@ -14,6 +14,10 @@ gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'paperclip', '~> 6.1'
 gem 'cocoon', '~> 1.2', '>= 1.2.12'
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'fog-aws'
+gem 'active_model_serializers'
+gem 'carrierwave'
+gem 'fog'
 
 group :development, :test do
 
